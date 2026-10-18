@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.json.gz"
+name = "A spinning rally against the CPU"
+
+[[media]]
+file = "rally.png"
+name = "A curving shot in flight"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
+
+[[media]]
+file = "howto.png"
+name = "How spin and bank shots work"
